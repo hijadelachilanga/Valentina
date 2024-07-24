@@ -1,0 +1,26 @@
+.titulo {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  #datos{
+    display: flex;
+    justify-content: space-around; 
+  }
+  p#principal{
+    display: flex;
+    justify-content: center;
+  }
+  .music{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  div#botones{
+    display: flex;
+justify-content: space-evenly;
+}
+.texto{
+    font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
