@@ -31,3 +31,16 @@ justify-content: space-evenly;
   margin-left: 100px;
   margin-right: 100px;
 }
+#recuerdos{
+  display: flex;
+  align-items:  center;
+  padding: 10px;
+}
+#pelis{
+  display: flex;
+  padding-right: 100px;
+}
+#series{
+  display: flex;
+  justify-content: space-between;
+}
