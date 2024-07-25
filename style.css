@@ -23,4 +23,11 @@ justify-content: space-evenly;
     font-family: "Cabin", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  color: rgb(0, 78, 78);
+  font-size: 20px;
+}
+#descrip{
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
 }
